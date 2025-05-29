@@ -38,7 +38,7 @@
          "name":"Fondo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":30,
          "x":0,
          "y":0
@@ -98,8 +98,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":640.474425500371,
-                 "y":387.842846553002
+                 "x":695.141092167038,
+                 "y":86.5095132196687
                 }, 
                 {
                  "height":0,
@@ -146,8 +146,8 @@
                  "type":"star",
                  "visible":true,
                  "width":0,
-                 "x":590,
-                 "y":82
+                 "x":520.666666666667,
+                 "y":67.3333333333333
                 }, 
                 {
                  "height":0,
@@ -189,7 +189,7 @@
         {
          "columns":33,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/pack-result\/texture.png",
+         "image":"..\/texture.png",
          "imageheight":680,
          "imagewidth":800,
          "margin":0,

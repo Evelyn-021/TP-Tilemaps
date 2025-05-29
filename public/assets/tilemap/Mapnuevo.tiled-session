@@ -1,0 +1,77 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Mapnuevo.json",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos los archivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#laberinto": {
+            "scaleInDock": 1
+        },
+        "#suelo": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Mapnuevo.json": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 284,
+                "y": 392
+            }
+        },
+        "Mapnuevo.json#suelo": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.7256944444444443,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.6555023923446,
+                "y": 359.65550239234454
+            }
+        },
+        "map.json#tileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Evely/OneDrive/Escritorio/TP Tilemaps/public/assets/tilemap",
+    "last.imagePath": "C:/Users/Evely/OneDrive/Escritorio/TP Tilemaps/public/assets",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 80,
+    "openFiles": [
+        "Mapnuevo.json"
+    ],
+    "project": "Mapnuevo.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Mapnuevo.json",
+        "map.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
