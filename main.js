@@ -1,20 +1,19 @@
-import Game from "./scenes/Game.js";
-
+import Mapa1 from "./scenes/Mapa1.js";
 // Create a new Phaser config object
 const config = {
   type: Phaser.AUTO,
   width: 720,
-  height: 720,
+  height: 480,
   scale: {
     mode: Phaser.Scale.FIT,
     autoCenter: Phaser.Scale.CENTER_BOTH,
     min: {
-      width: 800,
-      height: 600,
+      width: 480,
+      height: 320,
     },
     max: {
-      width: 2160,
-      height: 1620,
+      width: 1440,
+      height: 960,
     },
   },
   physics: {
@@ -27,7 +26,7 @@ const config = {
   // List of scenes to load
   // Only the first scene will be shown
   // Remember to import the scene before adding it to the list
-  scene: [Game],
+  scene: [Mapa1]
 };
 
 // Create a new Phaser game instance
