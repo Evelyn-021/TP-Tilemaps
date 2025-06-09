@@ -1,4 +1,5 @@
 # Phaser 3 Template
 
-En el juego tienes que juntar 10 estrellas que equivale a 100 puntos en total en cada punto para teletranportarte a la siguiente area. 
-Asi hasta conseguir los 300 puntos para ganar (se acumulan)
+En este juego, tu objetivo es recolectar 10 estrellas en cada zona. Cada estrella vale 10 puntos, lo que suma un total de 100 puntos por zona.
+Al alcanzar los 100 puntos, el personaje se teletransporta automáticamente a la siguiente área.
+Repetí esto hasta alcanzar los 300 puntos totales para ganar la partida. ¡Los puntos se acumulan entre zonas!
